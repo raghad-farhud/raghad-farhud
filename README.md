@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghad-farhud
-- 👀 I’m interested in Web Development 
+- 👀 I’m a Web Developer
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me insta:Raghad.farhud
 
