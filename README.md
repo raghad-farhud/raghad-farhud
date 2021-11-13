@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @raghad-farhud
-- 👀 I’m a Web Developer
+- 👀 I’m a front-end Developer
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me insta:Raghad.farhud
+- 📫 How to reach me insta: rf.dev0 
+- email: raghad.f.tech@gmial.com
 
 <!---
 raghad-farhud/raghad-farhud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
