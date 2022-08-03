@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @raghad-farhud
-- 👀 I’m a front-end Developer
-- 🌱 I’m currently learning JavaScript frameworks
-- 📫 How to reach me insta: dev__space 
-- email: raghad.f.tech@gmial.com
+ ## 👋 Hi, I’m @raghad-farhud
+###  👀 I’m a front-end Developer
+###  🌱 I use Vue3 and nuxt.js as a framework
+###  🖨️ My blog https://devspace-blog.web.app/ 
+###  📫 my portfolio https://devspace-portfolio.netlify.app/ 
+####  email: dev01space@gmial.com
 
 <!---
 raghad-farhud/raghad-farhud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
