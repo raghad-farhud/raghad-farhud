@@ -1,9 +1,9 @@
  ## 👋 Hi, I’m @raghad-farhud
-###  👀 I’m a front-end Developer
-###  🌱 I use Vue3 and nuxt.js as a framework
-###  🖨️ My blog https://devspace-blog.web.app/ 
-###  📫 my portfolio https://devspace-portfolio.netlify.app/ 
-####  email: dev01space@gmial.com
+###  👀 I’m a web Developer
+###  🌱 I use Vue3 and laravel frameworks
+###  🖨️ My blog https://devspace.social 
+
+####  email: rghfarhud@gmail.com
 
 <!---
 raghad-farhud/raghad-farhud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
