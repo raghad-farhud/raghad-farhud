@@ -1,6 +1,6 @@
 👋 Hello, I'm Raghad Farhud.
 
-BOD: Jun, 2002.
+DOB: Jun, 2002.
 
 💻 Full-Stack Web Developer
 
