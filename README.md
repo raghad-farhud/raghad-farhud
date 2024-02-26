@@ -10,7 +10,7 @@ DOB: Jun, 2002.
 
 🚀 Building websites with HTML, CSS, JavaScript, and React. Turning ideas into interactive and user-friendly websites.
 
-💬 Passionate about sharing knowledge and creating content on programming, technology, and self-development. You can find me on Instagram and Twitter as @sev__space.
+💬 Passionate about sharing knowledge and creating content on programming, technology, and self-development. You can find me on Instagram and Twitter as @dev__space.
 
 
 <!---
