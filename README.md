@@ -4,8 +4,6 @@ DOB: Jun, 2002.
 
 💻 Full-Stack Web Developer
 
-🌍 Based in Saudi Arabia 🇸🇦 | Originally from Syria 🇸🇾
-
 🎓 Final-year Computer Science student
 
 🚀 Building websites with HTML, CSS, JavaScript, and React. Turning ideas into interactive and user-friendly websites.
